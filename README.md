@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  <h1 align="center">Hi 👋, I'm Pavan Badgujar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="image.png">
+<img align="right" alt="coding" width="400" src="https://st3.depositphotos.com/2673929/35165/i/1600/depositphotos_351652018-stock-photo-creative-futuristic-network-coding-background.jpg">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
