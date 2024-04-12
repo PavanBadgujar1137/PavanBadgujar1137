@@ -1,3 +1,9 @@
+
+
+
+<h1 align="center">Hi 👋, I'm Pavan Badgujar</h1>
+<h3 align="center">A Passionate Web Developer & Problem Solver from India ❤️</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Linux, and NextJS<br>👯 I’m looking to collaborate on Mern Projects<br>🌱 I’m currently learning  Data Science and Machine Learning<br>💬 Ask me about JavaScript<br>
 
