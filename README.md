@@ -1,4 +1,4 @@
-<h1 align="center">Pavan Badgujar</h1>
+<h1 align="center">Er. Pavan Badgujar</h1>
 <h3 align="center">Full-Stack Developer & AI Systems Engineer · India</h3>
 
 <p align="center">
