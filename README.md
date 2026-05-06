@@ -1,42 +1,154 @@
+<h1 align="center">Pavan Badgujar</h1>
+<h3 align="center">Full-Stack Developer & AI Systems Engineer · India</h3>
 
-
-
-<h1 align="center">Hi 👋, I'm Pavan Badgujar</h1>
-<h3 align="center">A Passionate Software Developer & Problem Solver from India ❤️</h3>
-
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-# 💫 About Me:
-🔭 I’m currently working on Linux, and NextJS<br>👯 I’m looking to collaborate on Mern Projects<br>🌱 I’m currently learning  Data Science and Machine Learning<br>💬 Ask me about JavaScript<br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-badgujar-831012244/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/PavanB1137) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-## 📈 GitHub Stats
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptesh17&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
-         <img src="https://github-readme-stats.vercel.app/api?username=diptesh17&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptesh17&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
-    </div>
-</div>
-<br>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PavanBadgujar1137&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavan-badgujar-831012244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pavanabad01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PavanBadgujar1137" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Diptesh_47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--Footer--> 
+## About Me
+
+Full-Stack Developer with **2+ years** of experience building production-grade, scalable web and mobile applications across **healthcare**, **EdTech**, and **on-demand service** domains.
+
+Strong foundation in core Computer Science — Data Structures & Algorithms, OOP, and DBMS — applied directly to architect real-world systems. Known for writing clean, maintainable, object-oriented code and designing normalized, high-performance database schemas.
+
+- 🔭 Currently working as **Fullstack Developer** at Equinox Lab Pvt Ltd, Navi Mumbai
+- 🏆 **2nd Position — IEEE Bombay Technovation** (national-level competition)
+- 🎓 B.Tech in Computer Science Engineering — CGPA: **8.07**
+- ⭐ HackerRank **5-Star** — Data Structures & Algorithms
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI & Integrations**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🎓 EduBridge — Multi-College LMS Platform
+> MERN · AWS · Socket.IO · Razorpay · OpenAI API · Firebase FCM
+
+Multi-tenant LMS where colleges onboard as partners and students enroll department-wise. Features a **5-tier RBAC** system, AI-powered quiz generation and transcription via **OpenAI Whisper + GPT API**, automated certification via PDFKit, and real-time chat + push notifications. Deployed on **AWS EC2** with S3 + CloudFront CDN.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PavanBadgujar1137)
+
+---
+
+### 🛠️ RapidHelp — On-Demand Service Platform
+> React Native · Node.js · MongoDB · AWS · Socket.IO · Firebase · Google Maps API
+
+Multi-role service platform (Customer, Provider, Admin) with **nearest-provider matching** using MongoDB 2dsphere geospatial indexing and Haversine distance formula. Real-time booking, live chat, and FCM push notifications. Atomic booking state transitions ensuring full data consistency.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PavanBadgujar1137)
+
+---
+
+### 🏥 Repro360 — IVF Healthcare Management System
+> ReactJS · TypeScript · Tailwind CSS · .NET Core 8 · MySQL · JWT
+
+Production-grade IVF clinic platform with **fully normalized MySQL schema (3NF)**, JWT-based RBAC, and a state-machine-driven IVF Cycle Navigator tracking 10+ treatment stages. Optimized JOIN queries reduced report load from **3.2s → 800ms**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PavanBadgujar1137)
+
+---
+
+### 📚 StudyNotion — EdTech Platform
+> ReactJS · Node.js · Express.js · MongoDB · Razorpay · Cloudinary · JWT
+
+Full-stack EdTech platform with MVC architecture, JWT + OTP dual-layer auth, bcrypt password hashing, and webhook-based idempotent payment handling. MongoDB aggregation pipelines for course analytics; Cloudinary CDN reduced page load by **45%**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PavanBadgujar1137/StudyNet)
+
+---
+
+### 🏘️ RealPulse — Property Rental Platform
+> Next.js · Node.js · MongoDB · Google OAuth · Mapbox · Cloudinary
+
+Next.js SSR + Incremental Static Regeneration for SEO-optimized listings. MongoDB text and geospatial indexes for efficient property search. Google OAuth 2.0, Mapbox maps, and real-time internal messaging between tenants and landlords.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PavanBadgujar1137/Real-Pulse)
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanBadgujar1137&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBadgujar1137&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanBadgujar1137&theme=default&hide_border=true" height="165" />
+</p>
+
+---
+
+## Achievements
+
+| 🏆 | 2nd Position — IEEE Bombay Technovation | National-level competition, cash prize + certificate |
+|---|---|---|
+| 🎓 | Academic Excellence | 3rd rank (Year 1) · 4th rank (Year 2) across all branches |
+| ⭐ | HackerRank 5-Star | Data Structures, Algorithms & Problem Solving |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PavanBadgujar1137&color=blue&style=flat-square" alt="Profile views" />
 </p>
